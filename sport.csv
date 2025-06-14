@@ -1,0 +1,267 @@
+,movie_names,ratings,voting_counts,duration_minutes,genre
+0,Challengers,7.0,158000,131,sport
+1,Queen of the Ring,6.4,2000,129,sport
+2,The Fire Inside,6.7,2900,109,sport
+3,Under Paris,5.2,37000,104,sport
+4,Young Woman and the Sea,7.5,18000,129,sport
+5,Unstoppable,6.8,4400,116,sport
+6,Arthur the King,7.0,35000,107,sport
+7,Lal Salaam,4.4,1400,150,sport
+8,Kill the Jockey,6.4,1800,96,sport
+9,Chandu Champion,7.8,34000,142,sport
+10,You Gotta Believe,5.8,1400,104,sport
+11,Haikyu!! The Dumpster Battle,7.7,6500,85,sport
+12,Rez Ball,6.3,2600,111,sport
+13,Diving Into the Darkness,8.9,88,96,sport
+14,Sweet Dreams,5.4,1500,95,sport
+15,Race for Glory: Audi vs. Lancia,5.8,5000,109,sport
+16,Maidaan,7.9,23000,181,sport
+17,Fight Like a Girl,8.3,20,118,sport
+18,Uranus 2324,6.4,4900,130,sport
+19,Blue Lock: Episode Nagi,6.6,2600,91,sport
+20,Yolo,6.9,3800,129,sport
+21,Lubber Pandhu,8.1,6200,146,sport
+22,Federer: Twelve Final Days,7.3,4200,88,sport
+23,Giannis: The Marvelous Journey,8.3,1800,109,sport
+24,Sixty Minutes,5.7,5200,88,sport
+25,The Beautiful Game,6.3,8200,125,sport
+26,Ski,7.6,78,95,sport
+27,Hayatla Baris,6.3,398,125,sport
+28,Mr. & Mrs. Mahi,5.9,16000,139,sport
+29,Gundi: Legend of Love,8.9,5600,166,sport
+30,The Underdoggs,5.6,4600,96,sport
+31,The Final: Attack on Wembley,6.3,2500,82,sport
+32,El Hareefa,6.8,1100,117,sport
+33,Boxer,6.4,1400,150,sport
+34,Wingless,7.3,186,110,sport
+35,Cup,8.6,82,146,sport
+36,The Swedish Torpedo,6.2,200,120,sport
+37,Bionic,4.3,1800,110,sport
+38,Baki Hanma VS Kengan Ashura,5.7,2000,62,sport
+39,Little Wing,6.1,947,100,sport
+40,Mond,7.0,299,92,sport
+41,Balestra,5.1,538,145,sport
+42,Crakk: Jeetega... Toh Jiyegaa,4.7,6500,154,sport
+43,Vijay 69,6.1,1200,112,sport
+44,My Sunshine,7.0,1400,100,sport
+45,El Harifa 2: El Remontada,6.3,486,130,sport
+46,Blue Star,6.9,1600,166,sport
+47,Return to the Ring,5.4,746,106,sport
+48,Nasty,7.7,1100,103,sport
+49,My Annoying Brother,7.4,278,114,sport
+50,The Champion,5.5,908,106,sport
+51,Untold: The Murder of Air McNair,5.6,2100,57,sport
+52,Samia,6.8,154,102,sport
+53,Numéro 10,5.3,51,91,sport
+54,Havnaa,7.1,280,110,sport
+55,Free Falling,5.2,300,89,sport
+56,Color of Victory,6.1,40000,157,sport
+57,Alpha.,6.9,258,100,sport
+58,Sunshine,7.3,65,91,sport
+59,Uma Musume: Pretty Derby - Beginning of a New Era,7.4,147,108,sport
+60,Pegasus 2,6.9,1300,121,sport
+61,Concussed: The American Dream,7.7,44,0,sport
+62,First Class: Full Speed!,7.0,334,0,sport
+63,Las super estrellas de la lucha libre,8.8,56,98,sport
+64,Undisputed,6.8,106,64,sport
+65,It's All Over: The Kiss That Changed Spanish Football,7.0,642,95,sport
+66,EFC,7.7,1200,87,sport
+67,Nayab,7.4,270,153,sport
+68,Memes & Nightmares,5.7,92,81,sport
+69,Topuria Matador,7.2,168,95,sport
+70,Kulej. Dwie strony medalu,6.4,343,148,sport
+71,Pierce,6.4,147,109,sport
+72,Friendly Fire,6.1,68,105,sport
+73,The Netflix Slam,7.2,147,150,sport
+74,The Miranda Brothers,4.4,191,99,sport
+75,I am Al Ittihad,4.9,232,90,sport
+76,Off the Line,8.6,17,0,sport
+77,Fuchsia Libre,4.9,60,112,sport
+78,GG (Good Game),5.9,80,100,sport
+79,Grace by Night,7.1,25,0,sport
+80,See Her Be Her,7.1,27,110,sport
+81,Bartali's Bicycle,7.6,9,80,sport
+82,Swamiji Club,6.885207100591716,0,88,sport
+83,Champions of the Golden Valley,9.2,77,81,sport
+84,The Tale of Texas Pool,7.8,79,0,sport
+85,4 Zéros,3.6,150,105,sport
+86,Inazuma Eleven Movie: The Legendary Kickoff,8.3,7,0,sport
+87,Challenger,5.6,180,95,sport
+88,Dabaru,8.9,651,131,sport
+89,Game Changers,4.7,232,78,sport
+90,Harimau Malaya: The Untold Journey,8.2,23,125,sport
+91,Minor Leaguer,5.1,94,77,sport
+92,Gold,7.7,76,126,sport
+93,Patang,6.885207100591716,0,88,sport
+94,The Spoils: Selling the Future of American Basketball,6.8,7,87,sport
+95,Final Heat,3.8,214,83,sport
+96,Home Plate,6.885207100591716,0,85,sport
+97,Argentina '78,7.1,212,0,sport
+98,A Horse Named Winx,8.7,101,117,sport
+99,"Hai, Romania!",8.1,426,98,sport
+100,Ping pang nan hai,7.1,19,108,sport
+101,Knock Out Blonde: The Kellie Maloney Story,6.0,23,90,sport
+102,Lyod 3,6.0,312,134,sport
+103,Keluar Main 1994,7.8,55,112,sport
+104,Pay Dirt: The Story of Supercross,6.885207100591716,0,91,sport
+105,The Next Centimeter,7.5,35,26,sport
+106,Battle of the Baddest,6.1,94,61,sport
+107,Tracing the Divide,8.8,173,84,sport
+108,Together: 4-in-a-Row,6.4,69,92,sport
+109,Loser is Winner,8.1,554,0,sport
+110,Anytime,8.9,25,62,sport
+111,Runaway Wrestler,7.6,16,105,sport
+112,Ice Cross: Life on the Edge,8.5,16,90,sport
+113,Basketball Jones: The First Chapter,6.885207100591716,0,88,sport
+114,All American,9.6,18,87,sport
+115,Eclipse,9.4,84,79,sport
+116,V de Victor,5.2,77,100,sport
+117,For the Love of Basketball,6.885207100591716,0,88,sport
+118,Parviz Khan,5.9,218,110,sport
+119,Linford,7.3,150,89,sport
+120,Gabru Gang,8.7,214,123,sport
+121,Go! Snails,6.885207100591716,0,90,sport
+122,Fedya. Narodnyy futbolist,6.1,129,125,sport
+123,Unbreakable: England 2003,8.1,38,66,sport
+124,Graciano Rocchigiani - Das Herz eines Boxers,9.2,51,123,sport
+125,The Streak,6.885207100591716,0,87,sport
+126,Secrets of Women's Mat Wrestling,6.885207100591716,0,60,sport
+127,Padu,5.1,82,97,sport
+128,Golpe a Golpe (Blow by Blow),8.1,23,90,sport
+129,Big Water Theory,6.885207100591716,0,83,sport
+130,The Incredibles,9.3,116,0,sport
+131,Nos Amours: The Saga of the Montreal Expos,5.9,24,92,sport
+132,La valanga azzurra,7.6,11,90,sport
+133,Grudge,6.885207100591716,0,104,sport
+134,The Unbreakable Tatiana Suarez,6.6,171,78,sport
+135,A Game of Two Halves,7.3,24,100,sport
+136,Rafa Márquez: El Capitán,6.6,199,82,sport
+137,In Inima Nationalei,7.8,200,103,sport
+138,CZW: Tournament of Death 21,6.885207100591716,0,88,sport
+139,UFC 299: O'Malley vs. Vera 2,7.4,83,180,sport
+140,Top Rider,6.885207100591716,0,84,sport
+141,Clash of Dynasties: St. Edward vs Walsh Jesuit,6.885207100591716,0,88,sport
+142,1600 Meter,6.885207100591716,0,106,sport
+143,Salty Amazons,6.885207100591716,0,32,sport
+144,Nema ne mogu,6.885207100591716,0,54,sport
+145,I am the girl 2 and my black belt,6.885207100591716,0,122,sport
+146,Dolly: Story of a Warrior,6.885207100591716,0,88,sport
+147,Hatching Eagles,6.9,23,63,sport
+148,DitO,5.8,23,117,sport
+149,Deathgrip 2,6.885207100591716,0,59,sport
+150,Giroud,6.4,26,80,sport
+151,Below the Rim,5.0,16,89,sport
+152,"Rylan: Homophobia, Football & Me",5.5,24,0,sport
+153,Roman Kostomarov. Rozhdennyy dvazhdy,6.885207100591716,0,77,sport
+154,Fencing for the Edge,6.885207100591716,0,75,sport
+155,Puffing Iron,7.5,20,98,sport
+156,Ice Aged,7.0,8,110,sport
+157,Il tempo è ancora nostro,6.885207100591716,0,88,sport
+158,Trailblazers,6.4,18,38,sport
+159,Welcome Back,7.4,5,119,sport
+160,Sculpting and Flowing with Marikah,6.885207100591716,0,88,sport
+161,UFC 302: Makhachev vs. Poirier,6.7,96,180,sport
+162,Phantom of the Ice,7.6,735,0,sport
+163,Faster: Only one lap,6.9,24,90,sport
+164,Qajymuqan,4.8,5,0,sport
+165,UFC 304: Edwards vs. Muhammad 2,6.0,73,200,sport
+166,Passion of Iron,9.3,18,0,sport
+167,Episodes: Ukraine at the World Cup (2024),8.1,72,79,sport
+168,Thirty On,6.885207100591716,0,88,sport
+169,Daley,7.8,180,102,sport
+170,Za predelami. Snezhnye psy,6.885207100591716,0,72,sport
+171,Welcome to the J-Rod Show,5.6,7,44,sport
+172,Athletes of War,6.885207100591716,0,95,sport
+173,"Traineras, pasión por el remo",6.0,7,0,sport
+174,The Road to OVC Champions,6.885207100591716,0,62,sport
+175,"Surf on, Europe!",7.5,25,92,sport
+176,Inazuma Eleven the Movie: Prologue to the New Heroes,6.885207100591716,0,88,sport
+177,Rhythm Masters: A Mickey Hart Experience,7.3,23,0,sport
+178,Vincenzo Nibali - Il 7° campione,6.885207100591716,0,52,sport
+179,V potoke trekh stikhiy,5.2,42,85,sport
+180,Wave Warriors IV,6.885207100591716,0,88,sport
+181,Take the Steps,8.3,74,83,sport
+182,O Fenômeno eSports,6.885207100591716,0,88,sport
+183,Gyakorlat teszi a mestert,6.1,15,46,sport
+184,Beyond the Podium: Celebrating Canadian Women Champions,6.885207100591716,0,88,sport
+185,Freedom Shred: A Juneteenth Declaration,6.885207100591716,0,55,sport
+186,I Am Kevin Harvick,9.1,17,0,sport
+187,Twitch,6.885207100591716,0,88,sport
+188,Za predelami. Semdesyat pervyy,6.885207100591716,0,74,sport
+189,Quest for the Shield,9.2,12,112,sport
+190,Nine: The Big Break,6.885207100591716,0,88,sport
+191,UFC 303: Pereira vs. Prochazka 2,6.4,71,195,sport
+192,Za predelami. Nad vodoy,6.885207100591716,0,67,sport
+193,Until the end,6.885207100591716,0,88,sport
+194,Not Just A Shot: A Disc Golf Story,6.885207100591716,0,59,sport
+195,More Than a Whistle,6.885207100591716,0,88,sport
+196,Fútbol desde el corazón,6.885207100591716,0,90,sport
+197,87 Candles,9.0,10,55,sport
+198,Dare to Dream,6.885207100591716,0,114,sport
+199,Quote 10.35,8.0,24,35,sport
+200,Rafting Middle Ocoee River with Melissa,6.885207100591716,0,125,sport
+201,9 Hao Chuan Qi,6.885207100591716,0,88,sport
+202,Zlatan Ibrahimovic hyllningsmatch (Sweden vs Serbia),6.6,6,170,sport
+203,Chava. El ciclista del pueblo,6.5,14,0,sport
+204,Za predelami. Ostavit sled,6.885207100591716,0,80,sport
+205,Kick Start,6.885207100591716,0,88,sport
+206,Gaffer,6.885207100591716,0,88,sport
+207,Peleamos,8.7,26,0,sport
+208,¡Qué suerte hemos tenido!,7.5,16,62,sport
+209,Veljko od mora,7.2,16,53,sport
+210,11 Brothers: The Movie,6.885207100591716,0,88,sport
+211,Altitude FC: Rising Together,6.885207100591716,0,88,sport
+212,The Path Full of Stars,6.885207100591716,0,60,sport
+213,"Prost itinéraire, d'une légende",6.885207100591716,0,88,sport
+214,Seamus,6.885207100591716,0,62,sport
+215,Surfin Estate,6.885207100591716,0,88,sport
+216,Drachten Journaals,6.885207100591716,0,51,sport
+217,Ice Fishing Hardcore: On the Road,9.6,7,0,sport
+218,Khapsyhyy,5.4,7,90,sport
+219,Triumf,7.3,9,113,sport
+220,Obseassion,6.885207100591716,0,32,sport
+221,Paulsbyen: Verdensmester,6.885207100591716,0,88,sport
+222,UNDERDROGS: a League of Ireland Story,6.885207100591716,0,30,sport
+223,UFC 297: Strickland vs. du Plessis,6.3,64,180,sport
+224,Invicta FC 59: Bernardo vs. Maia,6.885207100591716,0,88,sport
+225,Rising Tennis Star Meloni Jones,6.885207100591716,0,88,sport
+226,Beta Squad vs AMP Charity Match 2024,7.3,9,210,sport
+227,Cold Brew,6.885207100591716,0,22,sport
+228,Senza volto - Storia di Fabrizio Maiello,6.885207100591716,0,99,sport
+229,Volare più in alto,6.885207100591716,0,51,sport
+230,Is University Really Worth It?,5.1,12,60,sport
+231,Ocoee Rafting Trip Pilot,6.885207100591716,0,55,sport
+232,8 secondes,6.885207100591716,0,89,sport
+233,UFC 308: Topuria vs. Holloway in COSM Shared Reality,6.885207100591716,0,88,sport
+234,Sportzal,6.885207100591716,0,65,sport
+235,Gangwon 2024 Winter Youth Olympics - Opening Ceremony,6.885207100591716,0,88,sport
+236,UFC 309: Jones vs. Miocic in COSM Shared Reality,6.885207100591716,0,88,sport
+237,TAÏ: 33 jours dans la dernière forêt d'Afrique de l'Ouest,6.885207100591716,0,88,sport
+238,Gangwon 2024 Winter Youth Olympics - Closing Ceremony,6.885207100591716,0,88,sport
+239,Leuchtend Schwarz - Sturm und der Weg zum Double,6.885207100591716,0,88,sport
+240,El Chilote: Gloria del Béisbol Dominicano,6.885207100591716,0,75,sport
+241,Atlético Marbella. Aquel Fútbol de los 90,6.885207100591716,0,88,sport
+242,Not That NB,6.885207100591716,0,88,sport
+243,A Piece of Home,6.885207100591716,0,88,sport
+244,EL DESAFÍO IMPOSIBLE: LA CUMBRE DE LOS 7000 METROS,6.885207100591716,0,88,sport
+245,Sport Gives Back Awards 2024,6.885207100591716,0,70,sport
+246,Mais Fortes,6.885207100591716,0,54,sport
+247,Phoenix: A Purdue Basketball Story,6.885207100591716,0,82,sport
+248,Emirates NBA Cup in COSM Shared Reality,6.885207100591716,0,88,sport
+249,Hard 90 to Home,6.885207100591716,0,46,sport
+250,The IV Crown Showdown Final Press Conference,6.885207100591716,0,114,sport
+251,Transitalia Marathon International Classic Motorbike Challenge,6.885207100591716,0,88,sport
+252,Ligure sa Trebevica,6.885207100591716,0,54,sport
+253,La vida en rojo,6.885207100591716,0,64,sport
+254,UFC 306: O'Malley vs. Dvalishvili in COSM Shared Reality,6.885207100591716,0,88,sport
+255,1984: 40 Years Strong and True,6.885207100591716,0,88,sport
+256,A La Fin du Film - Real Madrid v Bayern Münich,6.885207100591716,0,48,sport
+257,Rafting with Alex Ocoee Middle,5.2,7,47,sport
+258,Champions in May,6.885207100591716,0,127,sport
+259,Being 500 A Professional Wrestling Documentary,6.885207100591716,0,88,sport
+260,Natural Selection Tour 2024,6.885207100591716,0,88,sport
+261,Wölfinnen - Die Jagd nach dem Triple,6.885207100591716,0,93,sport
+262,Fotbollsåret 2023,6.885207100591716,0,88,sport
+263,Me to stahy sti fanela,6.885207100591716,0,48,sport
+264,Choices & Decisions,6.885207100591716,0,74,sport
+265,Snow Going Back: Comic Relief v the Arctic,6.885207100591716,0,59,sport

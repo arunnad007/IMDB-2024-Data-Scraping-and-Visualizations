@@ -1,0 +1,345 @@
+,movie_names,ratings,voting_counts,duration_minutes,genre
+0,Small Things Like These,6.7,26000,98,history
+1,I'm Still Here,8.2,111000,137,history
+2,Saturday Night,6.9,32000,109,history
+3,The Apprentice,7.1,59000,122,history
+4,September 5,7.1,26000,95,history
+5,Queer,6.4,23000,137,history
+6,The Return,6.2,9800,116,history
+7,The Six Triple Eight,6.7,27000,127,history
+8,The Girl with the Needle,7.5,15000,123,history
+9,Reagan,6.1,11000,141,history
+10,Blitz,6.2,17000,120,history
+11,William Tell,5.7,2900,133,history
+12,Joy,7.1,9800,115,history
+13,Bonhoeffer: Pastor. Spy. Assassin.,6.2,3800,133,history
+14,The Children's Train,7.4,7600,106,history
+15,Unfrosted,5.5,35000,97,history
+16,Vermiglio,6.9,4600,119,history
+17,Lilies Not for Me,7.1,566,99,history
+18,The Devil's Bath,6.6,6600,121,history
+19,Saint-Exupéry,5.4,453,98,history
+20,Uprising,6.6,5800,126,history
+21,Goebbels and the Führer,6.7,2500,135,history
+22,11 Rebels,6.3,582,155,history
+23,Grand Tour,6.5,2000,129,history
+24,Waves,7.9,1900,131,history
+25,Being Maria,6.1,720,100,history
+26,The New Year That Never Came,8.1,5300,138,history
+27,Harvest,6.1,451,131,history
+28,Harbin,6.2,893,108,history
+29,In Her Place,6.2,4100,96,history
+30,Chandu Champion,7.8,34000,142,history
+31,Bibi Rajni,8.5,725,143,history
+32,Intoxicated by Love,8.5,13000,118,history
+33,Bahodir Yalangto'sh,6.6,144,0,history
+34,"From Hilde, with Love",6.9,1100,125,history
+35,The Last Front,5.5,628,98,history
+36,Bir Cumhuriyet Sarkisi,7.4,1200,128,history
+37,Escape from Germany,5.4,1000,97,history
+38,Golden Kamuy,6.3,2600,127,history
+39,Maidaan,7.9,23000,181,history
+40,Before Dawn,5.4,1100,101,history
+41,Shirley,6.2,3400,117,history
+42,From Darkness to Light,7.4,223,108,history
+43,Becoming Madonna,6.9,270,91,history
+44,Bushido,6.9,491,129,history
+45,The Damned,5.4,901,89,history
+46,The Flood,6.3,335,101,history
+47,Maharaj,6.5,15000,131,history
+48,Seize Them!,5.1,1200,91,history
+49,ABBA: Against the Odds,7.3,546,90,history
+50,Witches,7.4,1300,90,history
+51,Quisling: The Final Days,7.1,1200,146,history
+52,John Brown the Advocate,9.6,12,0,history
+53,Something to Stand for with Mike Rowe,8.6,298,96,history
+54,No Chains No Masters,6.3,637,98,history
+55,Sucha Soorma,6.3,948,136,history
+56,Battlefield,6.2,694,104,history
+57,Ernest Cole: Lost and Found,7.3,390,105,history
+58,Thangalaan,6.5,6700,156,history
+59,Conquer: Lahad Datu,6.6,539,120,history
+60,Atatürk II: 1881-1919,8.9,2200,141,history
+61,In Search of Darkness 1990-1994: A Journey Into Iconic '90s Horror,7.9,144,363,history
+62,Gloria!,6.6,1000,106,history
+63,Gladiators,4.6,106,95,history
+64,Now or Never!,2.2,17000,0,history
+65,Limonov: The Ballad of Eddie,5.9,1000,138,history
+66,Unsinkable,5.7,156,100,history
+67,Apocalypse in the Tropics,7.5,108,110,history
+68,Kingdom 4: Return of the Great General,7.1,1400,145,history
+69,The Great Ambition,7.2,816,123,history
+70,The Kingdom,7.0,131,133,history
+71,Drop Dead City,7.8,30,108,history
+72,Zeitgeist: Requiem,8.4,28,90,history
+73,The Ballad of Davy Crockett,4.6,252,96,history
+74,Einstein and the Bomb,6.2,4100,76,history
+75,The Commandant's Shadow,7.3,1100,103,history
+76,Witch,4.9,1400,107,history
+77,"Love, Courage and the Battle of Bushy Run",5.0,189,113,history
+78,Ka Whawhai Tonu,7.3,191,115,history
+79,Razakar: The Silent Genocide of Hyderabad,7.4,5300,166,history
+80,Apollo 13: Survival,7.3,2500,98,history
+81,This Is the Goat!,5.4,333,100,history
+82,Janis Ian: Breaking Silence,7.9,96,114,history
+83,Lisabi: The Uprising,5.2,139,107,history
+84,House of Ga'a,4.0,490,119,history
+85,Six Days in August,6.2,130,120,history
+86,Le quatrième mur,6.4,134,116,history
+87,Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj,8.1,668,174,history
+88,Color of Victory,6.1,40000,157,history
+89,Operation Undead,4.7,428,110,history
+90,Louise Violet,6.5,239,108,history
+91,Ei koskaan yksin,7.2,441,85,history
+92,Gangs of Godavari,5.0,915,165,history
+93,The Volunteers: The Battle of Life and Death,6.1,246,144,history
+94,Blur: To the End,7.2,716,104,history
+95,Lula,5.5,194,90,history
+96,Sinhabahu,6.4,94,112,history
+97,Accident or Conspiracy: Godhra,7.4,786,133,history
+98,Shivrayancha Chhava,7.0,420,80,history
+99,Jorge da Capadócia,6.0,154,119,history
+100,Greenwood Rising: The Rise of Black Wall Street,7.1,98,0,history
+101,Chhava,8.5,2200,51,history
+102,Housewife of the Year,7.5,63,81,history
+103,Simona Kossak,6.1,357,100,history
+104,Ae Watan Mere Watan,4.7,1400,133,history
+105,Kasoombo,8.2,635,156,history
+106,Kupu-Kupu Kertas,6.5,214,113,history
+107,Vindication Swim,6.0,213,98,history
+108,Meeting with Pol Pot,6.4,430,112,history
+109,Red Poppies,4.7,329,122,history
+110,Hakkenden,6.0,81,149,history
+111,America's Burning,6.0,121,83,history
+112,Die Ermittlung: Oratorium in 11 Gesängen,7.6,174,241,history
+113,Bardejov,4.8,180,85,history
+114,Memoir Seorang Guru,7.1,132,120,history
+115,Silver Star,7.1,16,102,history
+116,The Impact: Groundbreaking Documentary,8.2,62,0,history
+117,Ahl Al Kahf,5.3,281,120,history
+118,Warrior Awang and Master Tok Gajah,4.6,481,118,history
+119,Mysteries of the Terracotta Warriors,6.7,1700,77,history
+120,Death Game,6.3,26,88,history
+121,The Peanut Man,5.5,74,0,history
+122,Yatra 2,6.3,9700,132,history
+123,Boat,5.4,1000,126,history
+124,Komandir,6.3,532,131,history
+125,Atomic People,8.3,110,90,history
+126,Landesverräter,5.9,107,112,history
+127,The Embers,6.4,107,162,history
+128,"True Chronicles of the Blida Joinville Psychiatric Hospital in the Last Century, when Dr Frantz Fanon Was Head of the Fifth Ward between 1953 and 1956",7.1,30,90,history
+129,The Shadow,6.4,274,90,history
+130,Panjab Files,5.6,32,117,history
+131,Dogman Territory: Werewolves in the Land Between the Lakes,5.6,35,0,history
+132,Obraz,7.5,21,95,history
+133,Sadik Ahmet,7.7,430,125,history
+134,A Country Called Ghana,9.2,12,0,history
+135,Patrice: The Movie,8.3,231,102,history
+136,Taghiev: Oil,9.2,83,120,history
+137,Bach - Ein Weihnachtswunder,6.2,169,89,history
+138,Aliens Return,4.8,13,0,history
+139,Tears of Blood,9.7,8,0,history
+140,Hope of Escape,7.7,43,91,history
+141,Blood'less' Revolution,6.7,312,103,history
+142,The Colonizer,6.771806167400881,0,77,history
+143,Quo Vadis,6.4,514,90,history
+144,Yakamoz,6.5,16,96,history
+145,Mustafa,6.9,76,75,history
+146,"Carville: Winning Is Everything, Stupid",7.2,274,98,history
+147,Zhi Ci Qing Lv,6.6,51,89,history
+148,"À l'école de l'universel: Germaine Le Goff, l'histoire d'une pionnière",6.771806167400881,0,53,history
+149,Six Nine Five (695),7.0,706,137,history
+150,"Silver, Speik and Sumpters",6.771806167400881,0,91,history
+151,The Fall of 2008,7.7,11,61,history
+152,Ray of Hope,7.0,11,105,history
+153,Cinta Dari Timor,5.3,24,82,history
+154,Chernyy zamok,4.9,56,115,history
+155,The Happiest Place on Earth,5.9,15,0,history
+156,Bloodspawn,6.3,11,76,history
+157,Ennio Doris - C'è anche domani,5.2,106,90,history
+158,Dad's Secret War: France 1944,6.771806167400881,0,58,history
+159,I am Al Ittihad,4.9,230,90,history
+160,Wilhelm Gustloff,8.7,9,110,history
+161,Lafran,8.4,19,99,history
+162,Solos en la noche,5.7,103,88,history
+163,Holdin' Weight: The Darryl Reed Story,6.771806167400881,0,91,history
+164,Malês,6.771806167400881,0,91,history
+165,Wieland,5.7,17,0,history
+166,Paul Anka: His Way,7.3,11,100,history
+167,Cândido,6.3,63,99,history
+168,Guadalupe: Mother of Humanity,7.0,40,102,history
+169,Gadera,5.1,50,108,history
+170,"Arlempdes, la légende du premier château de la Loire",6.5,12,0,history
+171,Manyunya. Priklyucheniya v Moskve,5.7,111,87,history
+172,Drava se ne predaje,8.3,9,0,history
+173,Meet the Roman Emperor with Mary Beard,7.7,48,59,history
+174,You Are Always Right Here,6.771806167400881,0,91,history
+175,Manyunya. Priklyucheniya v derevne,5.8,121,84,history
+176,Aliens Uncovered: The Land of Legends,8.9,9,0,history
+177,Churchill's Forgotten War,7.4,14,47,history
+178,Legend of the Lizard,6.771806167400881,0,91,history
+179,Village of Death: Oradour-sur-Glane 1944,7.8,15,58,history
+180,Kargil 1999- The Untold Story of the Indian Air Force,8.5,15,0,history
+181,Powstaniec 1863,5.3,142,115,history
+182,Running Towards the Fire - A War Correspondent's Story,6.771806167400881,0,56,history
+183,Burgemeestersmoord,6.4,85,0,history
+184,Myall Creek Day of Justice,6.4,17,78,history
+185,Ecce Homo Brâncoveanu,6.9,166,92,history
+186,The Legacy of Mahaveer,7.1,66,0,history
+187,Bröderna Andersson,7.3,121,84,history
+188,Pirates & Slaves,5.8,6,53,history
+189,On Moral Grounds,8.4,7,74,history
+190,Giannis in the Cities,6.7,26,90,history
+191,Clergyman,6.771806167400881,0,114,history
+192,Colors of the Sun,6.771806167400881,0,91,history
+193,Detor: The Rise of a Warrior Hunter,6.771806167400881,0,126,history
+194,Mi Ilustrísimo Amigo,6.771806167400881,0,80,history
+195,Sragaal,8.4,20,140,history
+196,Marcho - L'ultima bandiera,6.771806167400881,0,75,history
+197,L'orizzonte chiuso,8.0,5,0,history
+198,"Zeme, kas dzied",6.4,77,150,history
+199,The Birth of Korea,4.9,130,101,history
+200,Le choix du pianiste,5.8,13,106,history
+201,Vremya vernutsya,6.6,19,100,history
+202,The Lost Colony,6.771806167400881,0,91,history
+203,The Haka Party Incident,6.771806167400881,0,90,history
+204,Toque de Queda,6.771806167400881,0,120,history
+205,Die Mutigen 56 - Deutschlands längster Streik,6.5,11,90,history
+206,Drama 1882,9.1,19,45,history
+207,3 Frauen 1 Streik,6.6,22,0,history
+208,Mythical Creatures,6.771806167400881,0,90,history
+209,Aliens Uncovered: The Thunder God,8.5,8,0,history
+210,North Korea: Dark Secrets,5.8,83,79,history
+211,Pol Pot Dancing,7.1,14,102,history
+212,Madame Durocher,6.6,24,0,history
+213,Who Killed Lawrence of Arabia?,6.5,32,100,history
+214,Aquarius,6.5,26,75,history
+215,Public Defender,8.0,19,0,history
+216,Ett hjärta är alltid rött,7.1,399,103,history
+217,Operation Star,7.8,25,102,history
+218,The Words Women Spoke One Day,6.771806167400881,0,84,history
+219,Last Flamingo of the Red Summer Sunset,8.8,14,80,history
+220,Iyunskaya polyn,8.7,7,79,history
+221,Avalanche! The 1910 Great Northern Railway Disaster,6.771806167400881,0,65,history
+222,America's Woman,6.771806167400881,0,73,history
+223,Fedeltà Soldati. Prigionieri.,6.771806167400881,0,80,history
+224,Sisam,6.4,10,0,history
+225,The Hegartys of the Laurels,6.771806167400881,0,91,history
+226,Synthwave Horror: Night of the Living Dead,6.771806167400881,0,91,history
+227,La tv nel pozzo,6.771806167400881,0,91,history
+228,The Old Baraboo Inn,6.771806167400881,0,48,history
+229,Pismo,6.771806167400881,0,71,history
+230,Jíkuri,6.771806167400881,0,91,history
+231,And the Balls Roll On...: The Real Story of the Beautiful Game of Skee-Ball,6.771806167400881,0,93,history
+232,Ainda Somos os Mesmos,5.8,47,90,history
+233,"Colón ADN, su verdadero origen",6.4,54,106,history
+234,"Gaza, since October 7",6.771806167400881,0,94,history
+235,Cinema Strada,6.771806167400881,0,106,history
+236,The Word,6.771806167400881,0,45,history
+237,Stampila,7.4,9,0,history
+238,Queen Elizabeth II: Before the Crown,6.771806167400881,0,45,history
+239,Saigon,6.771806167400881,0,91,history
+240,Ekpebiwo m (I have Decided),6.771806167400881,0,91,history
+241,Silence in Sikeston,6.771806167400881,0,56,history
+242,Giuseppe Taliercio: Il delitto perduto,6.771806167400881,0,91,history
+243,Chhatrapati Tararani,8.9,20,0,history
+244,Titanus 1904,6.771806167400881,0,75,history
+245,Onihei Hankacho: Ketto,6.3,16,0,history
+246,Ensamble Patagonia,6.771806167400881,0,91,history
+247,Witness to Revolution: One Doctor's Story of the Xinhai Revolution,6.771806167400881,0,57,history
+248,Iron Bar,6.771806167400881,0,117,history
+249,Hancsovszky,7.8,21,0,history
+250,Sathur: Part1,6.771806167400881,0,91,history
+251,Piri Reis: The Incredible Chart,7.0,27,138,history
+252,Burkitt,6.771806167400881,0,73,history
+253,Nebesko,5.1,10,73,history
+254,SLON,6.771806167400881,0,91,history
+255,Márton Áron Erdély püspöke,6.771806167400881,0,90,history
+256,Colonel Xanthi,6.771806167400881,0,91,history
+257,"Napoléon, Albine, Betsy et les autres",6.771806167400881,0,91,history
+258,Comrade Yuri,6.771806167400881,0,91,history
+259,Bad Case of the Country Blues: The Linda Martell Story,6.771806167400881,0,89,history
+260,Theodor,6.771806167400881,0,120,history
+261,Lulu in Turin,8.5,6,76,history
+262,Tayna Chyornoy Ruki,5.7,24,84,history
+263,The Queen of Akra,6.771806167400881,0,91,history
+264,Isobel,6.771806167400881,0,91,history
+265,À Mesa da Unidade Popular,6.771806167400881,0,85,history
+266,Douglas Stories,6.771806167400881,0,91,history
+267,Rising Tennis Star Meloni Jones,6.771806167400881,0,91,history
+268,O Voo do Crocodilo - O Timor de Ruy Cinatti,6.771806167400881,0,71,history
+269,"Haïti, la rançon de l'indépendance",6.771806167400881,0,63,history
+270,Azerbaijan Atabeyler,7.6,5,100,history
+271,El Genocidio Silencioso,6.771806167400881,0,82,history
+272,Magic & Monsters,6.771806167400881,0,91,history
+273,Calico Rebellion,6.771806167400881,0,70,history
+274,Ghost Camera,6.771806167400881,0,101,history
+275,Gateway District - Project Algerine,6.771806167400881,0,91,history
+276,Aiyefele,6.771806167400881,0,91,history
+277,Destiny or Will. Marusia,8.9,17,0,history
+278,Raconte-moi la France,6.771806167400881,0,91,history
+279,The Man Outside,7.6,12,70,history
+280,"Renato Schlatter, l'ange déchu du football suisse",6.771806167400881,0,90,history
+281,Frederick Douglass - My Path to Freedom,6.771806167400881,0,90,history
+282,Los indomables,6.5,9,106,history
+283,Xun zhao tang de zhang,7.8,16,93,history
+284,Rinnans rival,6.771806167400881,0,94,history
+285,Illuminate - Monica Vitti - La donna che visse due volte,6.771806167400881,0,45,history
+286,All or Nothin',8.0,32,95,history
+287,"Georges Pompidou, la cruauté du pouvoir",6.5,7,104,history
+288,On the Wing,6.771806167400881,0,86,history
+289,Descartes in Egmond,6.771806167400881,0,72,history
+290,Ajiniyaz,6.771806167400881,0,91,history
+291,"Otger Cataló, La llegenda",6.771806167400881,0,91,history
+292,"...Mayombe, Paula?",6.771806167400881,0,91,history
+293,Ugly Bird,6.771806167400881,0,91,history
+294,This Is Not A Lost Film by Khavn,6.771806167400881,0,60,history
+295,Freedom Shred: A Juneteenth Declaration,6.771806167400881,0,55,history
+296,Christian Growth Through Hymns,6.771806167400881,0,50,history
+297,"Ritter, Burgen, Edelfrauen - Liebessagen aus dem Mittelalter",6.771806167400881,0,91,history
+298,¿De qué casa eres?,6.771806167400881,0,72,history
+299,Istanbul: Isgal ve Zafer,6.771806167400881,0,54,history
+300,Tesouro Natterer,6.771806167400881,0,84,history
+301,Un paese ci vuole,6.771806167400881,0,91,history
+302,Castles in Haiti,6.771806167400881,0,91,history
+303,Fast Track: Taking on the Speedway,9.4,9,35,history
+304,Vola Colomba - Trieste 1954,6.771806167400881,0,52,history
+305,Manuscripts,6.771806167400881,0,54,history
+306,Vernye,6.771806167400881,0,70,history
+307,Oda: Vlucht door de Eeuwen,6.4,7,0,history
+308,Song of the Last Lacandon Holy Man,6.771806167400881,0,67,history
+309,Maverick from the Edge,6.771806167400881,0,107,history
+310,A Cowardly Rout: The Bull Run Account of William Howard Russell,6.771806167400881,0,18,history
+311,2053 - A Best Case Scenario,6.771806167400881,0,58,history
+312,"Cintas, Fotocopias y Sellos Trucados",6.771806167400881,0,108,history
+313,Svjedoci pravde - Ratni zlocini u Bosanskom Novom,6.771806167400881,0,91,history
+314,Max Corvo for Freedom the Secret War of Oss in Italy 1943-1945,6.771806167400881,0,91,history
+315,Triumf,7.3,9,113,history
+316,Ukku Satyagraham,6.771806167400881,0,139,history
+317,Ek Chilte Jol,9.2,13,119,history
+318,C'era una volta il Derby Club,7.4,17,90,history
+319,The Canal Map of Britain,6.8,10,59,history
+320,Krigsvarsleren,7.8,8,55,history
+321,O Último Papagaio de Timneh,6.771806167400881,0,49,history
+322,Zle smierci,6.771806167400881,0,91,history
+323,Testimoni del tempo,6.771806167400881,0,91,history
+324,Sivestan,6.771806167400881,0,91,history
+325,The Way of Internal Strength,6.771806167400881,0,45,history
+326,Al Kafi,6.771806167400881,0,110,history
+327,Zhambyl: New Era,6.771806167400881,0,92,history
+328,Nerah Documaentary Film,6.771806167400881,0,91,history
+329,Testimoni del tempo,6.771806167400881,0,91,history
+330,Area 2,6.771806167400881,0,91,history
+331,The Coastal Map of Britain,6.771806167400881,0,60,history
+332,Um Tempo de Todos,6.771806167400881,0,132,history
+333,Okufere,6.771806167400881,0,91,history
+334,Kabarettistinnen in der Weimarer Republik und im Dritten Reich,6.771806167400881,0,90,history
+335,Nancy & Bill: The Story Before Oliver Twist,6.771806167400881,0,91,history
+336,International Resonance of the April Uprising,6.771806167400881,0,51,history
+337,Drachten Journaals,6.771806167400881,0,51,history
+338,"Twin Falls, 2001-2024",6.771806167400881,0,180,history
+339,Tatai Patara 1597,6.771806167400881,0,70,history
+340,On Air,6.771806167400881,0,91,history
+341,The Storm,6.771806167400881,0,165,history
+342,"Le Temple d'Hatchepsout, Reine d'Egypte",6.771806167400881,0,91,history
+343,Andrew Trimble: For Ulster & Ireland,6.771806167400881,0,91,history

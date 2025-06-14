@@ -1,0 +1,421 @@
+,movie_names,ratings,voting_counts,duration_minutes,genre
+0,The Wild Robot,8.2,175000,102,animation
+1,Mufasa: The Lion King,6.6,69000,118,animation
+2,Moana 2,6.6,107000,100,animation
+3,Flow,7.9,81000,85,animation
+4,Paddington in Peru,6.7,24000,106,animation
+5,Inside Out 2,7.5,220000,96,animation
+6,Transformers One,7.6,53000,104,animation
+7,Despicable Me 4,6.2,67000,94,animation
+8,IF,6.4,59000,104,animation
+9,The Day the Earth Blew Up: A Looney Tunes Movie,7.0,5100,91,animation
+10,The Lord of the Rings: The War of the Rohirrim,6.3,32000,134,animation
+11,Kung Fu Panda 4,6.3,70000,94,animation
+12,Memoir of a Snail,7.8,19000,95,animation
+13,Attack on Titan the Movie: The Last Attack,9.2,17000,145,animation
+14,The Garfield Movie,5.7,25000,101,animation
+15,Solo Leveling: ReAwakening,8.8,13000,121,animation
+16,Harold and the Purple Crayon,5.7,8700,90,animation
+17,Look Back,7.8,16000,58,animation
+18,Wallace & Gromit: Vengeance Most Fowl,7.5,36000,82,animation
+19,Spellbound,5.5,7700,109,animation
+20,Orion and the Dark,6.3,17000,93,animation
+21,Dan Da Dan: First Encounter,8.2,2800,83,animation
+22,Spermageddon,5.6,967,80,animation
+23,Watchmen: Chapter I,7.1,6900,83,animation
+24,The Remarkable Life of Ibelin,8.2,13000,103,animation
+25,Doraemon the Movie: Nobita's Earth Symphony,6.6,1600,115,animation
+26,Crayon Shin-chan: Our Dinosaur Diary,6.6,559,106,animation
+27,Justice League: Crisis on Infinite Earths - Part One,6.2,8700,93,animation
+28,The Most Precious of Cargoes,7.1,1300,81,animation
+29,Justice League: Crisis on Infinite Earths - Part Three,6.1,4700,94,animation
+30,Night of the Zoopocalypse,6.0,863,91,animation
+31,Megamind vs. The Doom Syndicate,2.5,5700,83,animation
+32,Piece by Piece,6.9,5800,93,animation
+33,That Christmas,6.8,17000,91,animation
+34,Haikyu!! The Dumpster Battle,7.7,6400,85,animation
+35,Justice League: Crisis on Infinite Earths - Part Two,5.6,5500,94,animation
+36,Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,7.2,8700,104,animation
+37,Overlord: The Sacred Kingdom,6.9,1300,135,animation
+38,Thelma the Unicorn,5.7,3000,93,animation
+39,Watchmen: Chapter II,7.1,3300,90,animation
+40,The Colors Within,7.1,1100,101,animation
+41,Grand Theft Hamlet,6.9,2100,89,animation
+42,Ultraman: Rising,6.9,6500,117,animation
+43,Boys Go to Jupiter,6.9,108,90,animation
+44,White Snake: Afloat,6.9,534,133,animation
+45,The Glassworker,7.3,1900,98,animation
+46,Mars,8.3,23,84,animation
+47,My Hero Academia: You're Next,7.0,2500,110,animation
+48,Given 3: To the Sea,7.9,110,80,animation
+49,10 Lives,5.9,2000,88,animation
+50,Panda Bear in Africa,5.5,364,84,animation
+51,Hitpig,5.1,1000,86,animation
+52,Baki Hanma VS Kengan Ashura,5.7,2000,62,animation
+53,Mononoke the Movie: The Phantom in the Rain,6.7,1300,89,animation
+54,Blue Lock: Episode Nagi,6.6,2600,91,animation
+55,Dongeng Sang Kancil,6.7,207,99,animation
+56,Savages,6.8,377,87,animation
+57,Rebellious,6.1,226,94,animation
+58,Dragonkeeper,5.7,1800,98,animation
+59,Sabbath Queen,8.0,68,105,animation
+60,Diplodocus,6.3,193,90,animation
+61,Gracie and Pedro: Pets to the Rescue,5.1,283,87,animation
+62,Ghost Cat Anzu,6.5,844,97,animation
+63,Buffalo Kids,6.6,755,93,animation
+64,From Ground Zero,7.9,562,112,animation
+65,Dalia and the Red Book,5.9,140,107,animation
+66,Saving Bikini Bottom: The Sandy Cheeks Movie,3.7,4000,82,animation
+67,Johnny Puff: Secret Mission,4.9,458,87,animation
+68,I Am What I Am 2,7.5,260,134,animation
+69,The Tiger's Apprentice,5.7,2200,84,animation
+70,A Sloth Story,5.6,227,90,animation
+71,Detective Conan: The Million-Dollar Pentagram,6.7,1500,111,animation
+72,Woody Woodpecker Goes to Camp,4.5,2600,100,animation
+73,Limonov: The Ballad of Eddie,5.9,1000,138,animation
+74,Super-Charlie,5.8,156,80,animation
+75,200% Wolf,5.9,1300,98,animation
+76,Out of the Nest,6.4,119,84,animation
+77,Ryan's World the Movie: Titan Universe Adventure,1.8,713,80,animation
+78,The Night Before Christmas in Wonderland,6.3,527,80,animation
+79,Big City Greens the Movie: Spacecation,6.2,562,83,animation
+80,Frida,7.5,1500,87,animation
+81,Noah's Ark,4.3,687,96,animation
+82,Terra Incognita 1901,5.4,61,78,animation
+83,Re: Zero - Starting Life in Another World- Season 3 Episode 1 90-minute Special 'Theatrical Malice',8.7,1200,90,animation
+84,No Time to Spy: A Loud House Movie,6.3,485,81,animation
+85,Dragon Ball Z Kai,8.6,79,82,animation
+86,The Proud Princess,6.5,133,84,animation
+87,My Oni Girl,6.0,1800,112,animation
+88,Norbert,6.7,15,75,animation
+89,Mochi-chon,8.2,10,0,animation
+90,Boonie Bears: Time Twist,6.0,174,105,animation
+91,My Freaky Family,6.3,419,86,animation
+92,Mobile Suit Gundam SEED Freedom,6.6,975,124,animation
+93,Niko: Beyond the Northern Lights,6.2,351,86,animation
+94,Peppa's Cinema Party,4.9,155,65,animation
+95,The Casagrandes Movie,5.6,687,89,animation
+96,Movie Given Hiiragi Mix.,7.6,213,70,animation
+97,Little Emma,5.4,129,106,animation
+98,The Lost Tiger,7.9,50,90,animation
+99,Storm Crashers,6.2,571,88,animation
+100,Monkey King: The Beginning,9.6,6,0,animation
+101,Living Large,7.0,154,80,animation
+102,Rafadan Tayfa: Kapadokya,6.6,129,84,animation
+103,The Quintessential Quintuplets Specials 2,6.9,147,46,animation
+104,Peppa Pig: Peppa's Adventures Around the World,8.0,7,0,animation
+105,Uma & Haggen: Mitos,7.4,53,94,animation
+106,The Big Trip 3: Race Around the World,5.7,66,85,animation
+107,Mariposas Negras,7.2,67,83,animation
+108,Fox & Hare Save the Forest,5.9,213,71,animation
+109,Nintama Rantaro Dokutake Ninja-tai Saikyou no Gunshi,7.2,32,90,animation
+110,Isla Monstro,7.8,10,0,animation
+111,Elli and the Ghostly Ghost Train,5.0,108,86,animation
+112,"Die Heinzels: Neue Mützen, Neue Mission",6.4,102,76,animation
+113,Shrek 5: The Contract - A Fan Made Film,7.2,21,84,animation
+114,Appu,8.5,186,92,animation
+115,Into the Mortal World,6.8,171,118,animation
+116,Kid Santa,6.625769230769232,0,78,animation
+117,Uma Musume: Pretty Derby - Beginning of a New Era,7.4,145,108,animation
+118,Angelo dans la forêt mystérieuse,6.0,129,81,animation
+119,Sanatorium Under the Sign of the Hourglass,5.4,128,75,animation
+120,Trapezium,6.2,164,95,animation
+121,Bocchi the Rock! Recap Part 1,7.5,192,90,animation
+122,Bloody Escape: Bats out of Hell,5.5,57,100,animation
+123,Ya Boy Kongming! Road to Summer Sonia,7.4,40,119,animation
+124,Dead Dead Demon's Dededede Destruction,7.1,148,120,animation
+125,(S)KiDS,8.6,112,85,animation
+126,Kizumonogatari: Koyomi Vamp,7.1,102,144,animation
+127,Cille 2069,7.1,96,0,animation
+128,Exorcism Chronicles: The Beginning,6.4,123,85,animation
+129,Heartsping : Teenieping of Love,7.1,26,0,animation
+130,My Redneck Neighbor: Chapter 2 - Let the Games Begin,6.6,9,55,animation
+131,Transformers Prime: Galavatron's Revenge,4.3,14,104,animation
+132,Where the Robots Grow,2.7,523,0,animation
+133,"Maya, donne-moi un titre",6.4,60,61,animation
+134,Inanimate Insanity II: The Movie,8.3,239,106,animation
+135,The Formula for Water,4.6,37,86,animation
+136,Kvitebjørn,5.9,74,85,animation
+137,Maxxie LaWow: Drag Super-shero,8.7,64,114,animation
+138,A Few Moments of Cheers,7.2,50,68,animation
+139,Fureru,6.3,38,107,animation
+140,Ivan Tsarevich i Seryy Volk 6,5.7,97,85,animation
+141,Rock Bottom,6.4,52,86,animation
+142,Bocchi the Rock! Recap Part 2,7.4,130,77,animation
+143,SuperKlaus,4.3,204,88,animation
+144,Zak & Wowo: The Legend of Lendarys,5.7,103,85,animation
+145,Tobias and the Arcane Merchant,9.0,45,167,animation
+146,Luntik. Vozvrashchenie domoy,6.3,79,0,animation
+147,Le parfum d'Irak,8.0,47,95,animation
+148,Taisu Xilie,6.625769230769232,0,100,animation
+149,Schirkoa: In Lies We Trust,5.6,162,103,animation
+150,The Storm,6.0,144,102,animation
+151,Woolina and the No Birds,8.1,50,80,animation
+152,Si Juki the Movie: Harta Pulau Monyet,6.0,127,107,animation
+153,STEVE (A Minecraft Movie),6.9,12,61,animation
+154,God with Three Eyes,5.7,23,112,animation
+155,Fuuto PI: Portrait of Kamen Rider Skull,7.5,48,82,animation
+156,Jon Vardar protiv Galaksijata,8.2,77,86,animation
+157,TWST: Things We Said Today,7.0,62,86,animation
+158,Ganbatte Ikimasshoi,5.2,13,95,animation
+159,Hola Frida,7.2,35,82,animation
+160,Tay 2: Ebabil Takimi,5.0,44,78,animation
+161,Code Geass: Rozé of the Recapture - Part 1,7.6,42,74,animation
+162,DreadClub: Vampire's Verdict,4.9,62,0,animation
+163,PAPmusic - Animation for Fashion,1.0,163,85,animation
+164,Masha i Medved v kino: Park chudes,7.4,18,58,animation
+165,Double Tuckerr,4.9,1200,120,animation
+166,"Robotia, the Movie",7.6,31,86,animation
+167,Kral Sakir: Devler Uyandi,5.3,69,0,animation
+168,Askepote,3.5,84,72,animation
+169,Yumi's Cells: The Movie,6.2,53,93,animation
+170,Quo Vadis,6.4,514,90,animation
+171,Dead Dead Demon's Dededede Destruction Zenpen,7.1,142,120,animation
+172,Mustafa,6.9,76,75,animation
+173,Bob a Bobek ve filmu: Na stope Mrkvojeda,7.2,32,80,animation
+174,The Summer of Mermaid,7.9,108,0,animation
+175,The Worlds Divide,7.9,40,120,animation
+176,Steal the Naughty List,6.3,126,90,animation
+177,"Silex and the City, le film",5.0,52,77,animation
+178,Slocum et moi,7.3,77,75,animation
+179,Lilla spöket Laban spökar igen,6.1,29,44,animation
+180,Hello My Beautiful Creatures,6.8,173,142,animation
+181,Astra,6.8,8,80,animation
+182,Life with Quincy 3,6.625769230769232,0,73,animation
+183,Captain Avispa,5.7,180,96,animation
+184,Olivia & the Clouds,7.3,56,81,animation
+185,Nature Cat's Nature Movie Special Extraordinaire,7.3,19,53,animation
+186,Rocket Club: Across the Cosmos,8.4,19,68,animation
+187,Balentes,6.625769230769232,0,70,animation
+188,Rocky and Bullwinkle,9.2,15,100,animation
+189,Apocalypse Love,6.4,5,0,animation
+190,Return,6.625769230769232,0,90,animation
+191,Pui Pui Molcar the Movie: Molmax,7.0,9,69,animation
+192,Tri kota. Zimnie kanikuly,6.6,35,65,animation
+193,The Cheshire Cat,6.625769230769232,0,64,animation
+194,Benjamin Bat,7.8,33,75,animation
+195,Teacher's Pet,5.4,36,0,animation
+196,Motu Patlu & The Race to the Diamond Valley,7.8,28,72,animation
+197,Tri bogatyrya. Ni dnya bez podviga,5.7,71,61,animation
+198,The Fifth Element,6.625769230769232,0,78,animation
+199,Dikkie Dik 2: Een Nieuwe Vriend voor Dikkie Dik,7.4,75,70,animation
+200,Il segreto di Liberato,7.3,227,90,animation
+201,Love Live! Nijigasaki High School Idol Club Final Chapter Part 1,7.4,15,59,animation
+202,Inazuma Eleven Movie: The Legendary Kickoff,8.3,7,0,animation
+203,Transformers: 40th Anniversary Event,7.4,30,96,animation
+204,Becho,7.2,10,0,animation
+205,Riki Rhino: The Bird Kingdom,5.1,25,109,animation
+206,Dikkie Dik en de Verdwenen Knuffel,7.3,131,62,animation
+207,The Greatest Surf Movie in the Universe,4.7,9,81,animation
+208,Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,6.8,36,71,animation
+209,Penelope & Everly's Holiday Adventure,6.625769230769232,0,78,animation
+210,Alex and Mia's Awesome Movie!!,6.625769230769232,0,75,animation
+211,Spider-Man: Blue,5.8,12,0,animation
+212,Kuramerukagari,5.8,84,61,animation
+213,Nie Xiaoqian,6.2,18,112,animation
+214,The Umbrella Fairy,5.7,61,95,animation
+215,Dinosaur Empire,6.625769230769232,0,78,animation
+216,Mobile Suit Gundam: Silver Phantom,6.1,13,90,animation
+217,Bread Barbershop: Celeb in Bakery Town,6.625769230769232,0,77,animation
+218,Pikmin Forever,6.625769230769232,0,78,animation
+219,Love and Friendship,6.625769230769232,0,57,animation
+220,Code Geass: Rozé of the Recapture: Part 2,7.8,28,76,animation
+221,Pleasant Goat and Big Big Wolf: The World Guardians,6.6,16,96,animation
+222,Adventures of Mickey Sherlock Mouse & Winnie the Pooh,4.9,12,0,animation
+223,Dinonauts,6.625769230769232,0,77,animation
+224,Motu Patlu & The Rise of Zombies,6.6,15,74,animation
+225,Max Beyond,6.6,18,93,animation
+226,Treasure Fellowship,6.625769230769232,0,86,animation
+227,Meitantei Conan Bâsasu Kaitô Kiddo,6.1,169,81,animation
+228,Arne Alligator och djungelkompisarna,4.6,49,61,animation
+229,Zuzubalândia: O Filme,5.4,11,60,animation
+230,Jin Ling Yu Mao,7.8,6,97,animation
+231,Shed 17 & Project G-1 the Movie,6.625769230769232,0,85,animation
+232,Rhythm of a Flower,7.4,15,81,animation
+233,Piril: Sayilarin Gizemi,9.0,67,0,animation
+234,Gintama the Movie 2D: Courtesan of the Nation Arc,8.0,9,109,animation
+235,Luv You Shankar,5.8,44,120,animation
+236,Marvel's Civil War Full Comic Dub Movie,6.625769230769232,0,75,animation
+237,Bigfoot in Wonderland,6.625769230769232,0,61,animation
+238,Code Geass: Rozé of the Recapture: Part 4,6.6,15,70,animation
+239,The Ballad of Straw Hat Sam,9.1,10,45,animation
+240,Cacophony the Animated Movie,6.625769230769232,0,81,animation
+241,The Puffins & the Magic Portal,7.7,32,0,animation
+242,King of Prism: Dramatic Prism 1,6.625769230769232,0,60,animation
+243,Bartali's Bicycle,7.5,8,80,animation
+244,Code Geass: Rozé of the Recapture: Part 3,7.4,25,76,animation
+245,Kittened,6.625769230769232,0,78,animation
+246,Rabbits Kingdom the Movie,6.625769230769232,0,94,animation
+247,The Barkers Pursuit of Adventure,6.625769230769232,0,78,animation
+248,Velký Pán,7.0,9,73,animation
+249,Eiga Oshiri Tantei Saraba Itoshiki Aibô (Oshiri) yo,6.625769230769232,0,71,animation
+250,Bogyó és Babóca 6. - Csengettyuk,7.8,13,0,animation
+251,The Car Acrobatic Team Saga,7.2,11,112,animation
+252,Robo Puffin,6.625769230769232,0,78,animation
+253,Dante's Divine Comedy,6.625769230769232,0,78,animation
+254,Gujeyeog-eseo sal-a dol-aon dwaeji,4.8,12,105,animation
+255,Daughters of Monster Magnet,6.625769230769232,0,46,animation
+256,Dance with the Finless Promise,6.3,20,0,animation
+257,Animal Adventures: Save the Forest,7.7,34,85,animation
+258,Ugly Sweater,7.1,13,80,animation
+259,Bizarros Peixes das Fossas Abissais,8.0,14,75,animation
+260,Skazochnyy patrul. Shou prodolzhayetsya,7.2,11,65,animation
+261,"Hey, Tete",6.4,9,151,animation
+262,Nefertiti the Queen of Hearts,6.625769230769232,0,89,animation
+263,The Delegator,4.1,17,96,animation
+264,La Familia del Barrio: La Película,4.5,7,0,animation
+265,Sunburnt Unicorn,7.7,13,81,animation
+266,Be Forever Yamato: Rebel 3199: Part 1: Dark Invasion,7.0,9,50,animation
+267,COPS VS WHORES,6.625769230769232,0,57,animation
+268,Ekip: Siberay - Günes Firtinasi,6.0,14,72,animation
+269,Memory Hotel,6.625769230769232,0,100,animation
+270,Kaptan Pengu ve Arkadaslari 4: Buzuldaki Sir,5.3,13,0,animation
+271,Ramayan the Hero's Path,6.625769230769232,0,78,animation
+272,Happy Little Submarine: 80 Days Around the Earth,6.625769230769232,0,80,animation
+273,The Halloween Shark,6.625769230769232,0,69,animation
+274,Boundearth,6.625769230769232,0,108,animation
+275,Abá e Sua Banda,7.0,13,84,animation
+276,Unhappy 25 Years Little Brat,6.625769230769232,0,78,animation
+277,Turbozavry. God drakona,9.2,43,48,animation
+278,Alla conquista del mondo,7.2,26,0,animation
+279,The Grump's Christmas,6.625769230769232,0,65,animation
+280,Naani Krissh's Jai Shree Ram,6.625769230769232,0,78,animation
+281,Nasreddin Hoca: Zaman Yolcusu - Kadim Medeniyetler,7.7,12,78,animation
+282,The Littlest Angel 2: Lily Has a Secret,6.625769230769232,0,84,animation
+283,Magic Birds: I magiki pagida,6.625769230769232,0,100,animation
+284,Day of the Diesels,7.7,10,100,animation
+285,Sufunkan no Yell o,7.0,6,0,animation
+286,There's Something About Knuckles Saga,6.625769230769232,0,46,animation
+287,Baby Halloween,6.625769230769232,0,66,animation
+288,Iris the Movie: Full Energy!!,7.3,8,60,animation
+289,Bie ba zuo wen dang hui shi er,7.2,12,89,animation
+290,Animal Tales of Christmas Magic,6.8,52,72,animation
+291,LUDA,7.2,6,86,animation
+292,Eiga Shimajiro Miracle-jima no Nanairo Carnation,6.625769230769232,0,70,animation
+293,Mission to Pisom,6.625769230769232,0,78,animation
+294,Kek 2,6.625769230769232,0,98,animation
+295,Mult v kino. Vypusk # 175,6.625769230769232,0,48,animation
+296,Nefertiti Regina Inimilor,6.625769230769232,0,89,animation
+297,Our Crazy Love,6.625769230769232,0,86,animation
+298,2054: The Wreckoning,6.625769230769232,0,60,animation
+299,Ilia Jostojooye Ghahreman,6.625769230769232,0,78,animation
+300,Black Butterflies,6.625769230769232,0,78,animation
+301,Crazy Train,6.625769230769232,0,95,animation
+302,World of Sathvik and his friends : The Cursed Pumpkin,6.625769230769232,0,48,animation
+303,Rudra & Return of King Makoonga,6.625769230769232,0,45,animation
+304,Gill,6.625769230769232,0,104,animation
+305,Me,6.625769230769232,0,60,animation
+306,Mult v kino. Vypusk # 168: Idyom na piknik!,6.625769230769232,0,51,animation
+307,Let's Go! Anpanman: Baikinman and Lulun,6.5,7,64,animation
+308,The Super Paper Mario Movie,6.625769230769232,0,101,animation
+309,Nothing Unusual,8.8,13,92,animation
+310,Gintama on Theater 2D: Kintama-hen,6.625769230769232,0,97,animation
+311,Le mystère de Waza,6.625769230769232,0,78,animation
+312,Let Them Breathe: City on the Ocean,6.625769230769232,0,112,animation
+313,Inazuma Eleven the Movie: Prologue to the New Heroes,6.625769230769232,0,78,animation
+314,Zegapain STA,6.625769230769232,0,90,animation
+315,Thanksgiving in Wonderland,6.625769230769232,0,65,animation
+316,Genjitsu no Yohane -Sunshine in the Mirror- Movie,6.625769230769232,0,89,animation
+317,Sinoalice: The Very Last Story,6.625769230769232,0,74,animation
+318,Isle: Alpha One,8.4,7,97,animation
+319,2475 Dawn of Revolution,6.3,153,127,animation
+320,Tobia e i colori del mondo,4.2,6,0,animation
+321,Terrors,6.625769230769232,0,65,animation
+322,Harmonie,6.625769230769232,0,74,animation
+323,Sirds likums,6.8,17,65,animation
+324,Ba Jie Zhi Tian Peng Xia Jie,6.625769230769232,0,78,animation
+325,Cordélicos,6.625769230769232,0,68,animation
+326,Ninja Doomscrolling,8.1,102,96,animation
+327,Broken Glass,6.625769230769232,0,78,animation
+328,Be Forever Yamato: Rebel 3199: Part 2: The Assault of the Burning Sun,6.625769230769232,0,97,animation
+329,Mult v kino. Vypusk # 165: Multikov vsegda malo,6.625769230769232,0,49,animation
+330,"Abenzaidún y Wallada, amor eterno",6.625769230769232,0,67,animation
+331,"The Wizard and the Scholar (or, a Rapscallion Runs Amok in Rye)",6.625769230769232,0,63,animation
+332,Little Richard the Shark,6.625769230769232,0,78,animation
+333,Fat Chance! the Movie,7.6,6,0,animation
+334,Calico Rebellion,6.625769230769232,0,70,animation
+335,Fishtales: The Christmas Whale,6.625769230769232,0,65,animation
+336,The Christmas Shark,6.625769230769232,0,63,animation
+337,Skullmaster: The Warrior of Havoc,6.625769230769232,0,78,animation
+338,Mult v kino. Vypusk # 174. Dobrye dela!,6.625769230769232,0,48,animation
+339,The Photographer,6.625769230769232,0,78,animation
+340,"Minsky, the little helper robot",6.625769230769232,0,6,animation
+341,The Puffins: Arctic Games,6.625769230769232,0,78,animation
+342,Era un soñador,6.625769230769232,0,65,animation
+343,The Veyshal Movie,6.625769230769232,0,120,animation
+344,My Time to Make It Happen: As Told by Tiana Melvina,6.625769230769232,0,42,animation
+345,Mult v kino. Vypusk # 173: Sekrety druzhby!,6.625769230769232,0,48,animation
+346,Milk Teeth - Essere bambine in Afghanistan,6.625769230769232,0,78,animation
+347,The Monkey King Conquers Monsters,6.625769230769232,0,90,animation
+348,Outcome,6.625769230769232,0,51,animation
+349,Golmaal Jr: Humshakals Ka Golmaal,6.625769230769232,0,46,animation
+350,Satan Kingdom Babylon,6.625769230769232,0,77,animation
+351,Hubworld,6.625769230769232,0,227,animation
+352,Criaturas Sorridentes,6.625769230769232,0,78,animation
+353,Diego of the Dead 2,6.625769230769232,0,60,animation
+354,Toto's Christmas in Oz,6.625769230769232,0,65,animation
+355,Bear Kid: Super Hero,6.625769230769232,0,80,animation
+356,Mutation X,6.625769230769232,0,51,animation
+357,Ba Jie,6.625769230769232,0,78,animation
+358,Plastic,6.625769230769232,0,62,animation
+359,Fleischer Cartoons: The Art & Inventions of Max Fleischer,6.625769230769232,0,62,animation
+360,The Guardians: The Chosen Ones,6.625769230769232,0,78,animation
+361,Huang Pi: God of Money,6.625769230769232,0,82,animation
+362,Cekárna,6.625769230769232,0,3,animation
+363,Tied Up,6.625769230769232,0,78,animation
+364,Elif ve Arkadaslari 2: Perisler,6.625769230769232,0,78,animation
+365,The Witch Doll of Aliester Croweley,6.625769230769232,0,16,animation
+366,Poder Del Pueblo,6.625769230769232,0,84,animation
+367,Mult v kino. Vypusk # 170: Vsyo luchshee - druzyam,6.625769230769232,0,52,animation
+368,Happylittle Submarine: The Adventure with Dragon,6.625769230769232,0,78,animation
+369,Métasexe,6.625769230769232,0,42,animation
+370,Papercuts - My Life as an Indie Animator,6.625769230769232,0,87,animation
+371,Snow White's Storytime: The Wishing-Stone Stories,6.625769230769232,0,296,animation
+372,Strawberry School Festival!!!,6.625769230769232,0,83,animation
+373,The Elf Who Saved Christmas,6.625769230769232,0,62,animation
+374,Dreamscape Vibes: Halloween Dance Party,6.625769230769232,0,61,animation
+375,Kustomonsters 3,6.625769230769232,0,54,animation
+376,Gg Bond: Interstellar Action,6.625769230769232,0,78,animation
+377,Worship,6.625769230769232,0,75,animation
+378,Blossomele,6.625769230769232,0,53,animation
+379,The Things I Have Seen,6.625769230769232,0,90,animation
+380,Slides for the Lecture-Performance,6.625769230769232,0,55,animation
+381,Collection Ansorge,6.625769230769232,0,90,animation
+382,Ali's Dream Castle,6.625769230769232,0,78,animation
+383,Bonehead: A Fortnite Legend,6.625769230769232,0,106,animation
+384,Broken oath Chapter #2 Blood Bath on City Island,6.625769230769232,0,90,animation
+385,Young doctor's notes,3.5,7,86,animation
+386,People Power,6.625769230769232,0,84,animation
+387,Abandoned,6.625769230769232,0,54,animation
+388,Mei Ren Yu De Xia Tian,6.625769230769232,0,78,animation
+389,Psycho City: The Movie,6.625769230769232,0,117,animation
+390,Healing for the Nations,6.625769230769232,0,3,animation
+391,Mult v kino. Vypusk # 167: Fokus-pokus,6.625769230769232,0,51,animation
+392,Psycho World Tournament,6.625769230769232,0,78,animation
+393,Skazochnyy patrul,6.625769230769232,0,75,animation
+394,The Burgger and Frogger Movie,6.625769230769232,0,78,animation
+395,Fairytale Fun Force Storytime: Happy Jack,6.625769230769232,0,159,animation
+396,NJPW SMP: The Movie,6.625769230769232,0,50,animation
+397,Despierta tu alma,6.625769230769232,0,78,animation
+398,Five Nights at TK's: The Curse of TK,6.625769230769232,0,60,animation
+399,Gift,6.625769230769232,0,78,animation
+400,Frost: End of the Ashics,6.625769230769232,0,57,animation
+401,Apperception,6.625769230769232,0,62,animation
+402,Um Tempo de Todos,6.625769230769232,0,132,animation
+403,Pikmin Destruction,6.625769230769232,0,95,animation
+404,Ah My Goddess: Bad Goddess One Wish,6.625769230769232,0,53,animation
+405,Nancy & Bill: The Story Before Oliver Twist,6.625769230769232,0,78,animation
+406,Untitled Ambition: The Journey to Valtoria,6.625769230769232,0,78,animation
+407,The Redemption of Zack & Heather (Remastered),6.625769230769232,0,78,animation
+408,Mel John,6.625769230769232,0,115,animation
+409,Minderler Adasi: Kilicin Sahibi,6.625769230769232,0,78,animation
+410,Baby Pillows,6.625769230769232,0,78,animation
+411,Imam Hussein the Majestic Sacrifice,6.625769230769232,0,78,animation
+412,1963,6.625769230769232,0,57,animation
+413,Tax on Cigarettes,6.625769230769232,0,78,animation
+414,Symphony of the Eyes,6.625769230769232,0,43,animation
+415,Sunny,6.625769230769232,0,78,animation
+416,VS Volume 4,6.625769230769232,0,78,animation
+417,Molang au cinéma!,6.625769230769232,0,55,animation
+418,Pesnya Sirin,6.625769230769232,0,85,animation
+419,Chikoo Bunty in the Ultimate Dream Chase,6.625769230769232,0,90,animation
